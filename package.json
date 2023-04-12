@@ -1,0 +1,16 @@
+{
+  "name": "bluenight-in-soul-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://jsondata.github.io/bluenight-in-sooul-clock",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.8.1"
+  }
+}
